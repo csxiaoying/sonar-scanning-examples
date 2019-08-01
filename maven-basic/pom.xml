@@ -51,6 +51,7 @@
     </pluginManagement>
   </build>
 
+  <!--
   <profiles>
 		<profile>
 			<id>sonar-coverage</id>
@@ -102,7 +103,8 @@
 			</build>
 		</profile>
 	</profiles>
-  <!--
+	-->
+  <!-- -->
   <profiles>
     <profile>
       <id>coverage</id>
@@ -133,5 +135,5 @@
       </build>
     </profile>
   </profiles>
-  -->
+   <!-- -->
 </project>
