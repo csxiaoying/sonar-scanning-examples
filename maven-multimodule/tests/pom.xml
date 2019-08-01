@@ -29,7 +29,7 @@
   </dependencies>
 
   <name>Tests</name>
-
+<!--
   <build>
     <plugins>
       <plugin>
@@ -47,5 +47,5 @@
       </plugin>
     </plugins>
   </build>
-
+-->
 </project>
